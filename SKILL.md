@@ -8,6 +8,7 @@ triggers:
   - "editor decision"
   - "meta-review"
   - "reviewer reports"
+author: "Ramón Morillo"
 output_language: "English"
 ---
 
