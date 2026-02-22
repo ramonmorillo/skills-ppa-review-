@@ -53,3 +53,22 @@ Reject: fatal flaws, invalid measures, irreparable bias, ethics/transparency iss
 7) Stats/analysis notes
 8) Patient preference/adherence-specific notes
 9) Ethics/transparency/reproducibility
+10) Decision Letter to the Authors (MANDATORY)
+    Generate a formal editorial decision letter in English.
+    Structure:
+    Dear Authors,
+    Thank you for submitting your manuscript entitled "[TITLE]" to Patient Preference and Adherence.
+    After editorial assessment and consideration of the reviewer reports, the decision is:
+    **[Accept / Minor Revision / Major Revision / Reject]**
+    Provide:
+    - Brief overall evaluation (2–4 sentences)
+    - Key strengths
+    - Key concerns requiring attention
+    - Clear statement that revisions are required (if applicable)
+    If revision:
+    List major revision priorities in neutral editorial language.
+    Close politely:
+    We appreciate the opportunity to consider your work and look forward to receiving your revised manuscript.
+    Sincerely,
+    The Editor
+    Patient Preference and Adherence
